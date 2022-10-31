@@ -2,6 +2,8 @@
 
 ![](overview.jpg)
 
+![](slicing.png)
+
 This Mount is designed to hold a yl620-a VFD to the back of the Milo Minimill 1.5, but should work for other
 VFD with the same 112mm horizontal hole spacing as well. If you want this model for different hole spacings
 I can generate that for you.
