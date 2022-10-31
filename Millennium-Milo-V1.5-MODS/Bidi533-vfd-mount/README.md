@@ -10,9 +10,9 @@ I can generate that for you.
 
 ## BOM
 
-* 4 printed parts
-* 4 M5 (roll-in) T-nuts
-* 4 M5x9.5 CNC Kitchen heat set inserts
-* 4 M5x12 BHCS (for mounting to the c beam)
-* 4 M5x12/16 BHCS/SHCS (for mounting the VFD to the printed parts)
+* 4x printed parts
+* 4x M5 (roll-in) T-nuts
+* 4x M5x9.5 CNC Kitchen heat set inserts
+* 4x M5x12 BHCS (for mounting to the c beam)
+* 4x M5x12/16 BHCS/SHCS (for mounting the VFD to the printed parts)
 
