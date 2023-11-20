@@ -58,3 +58,10 @@ The ball screw nuts are a tad too wide to fit the 40mm inside the C-Channel Prof
 Before: ![Before](https://media.discordapp.net/attachments/810620768609370158/1159416023817134100/IMG20231005105407.jpg)
 
 After: ![After](https://media.discordapp.net/attachments/810620768609370158/1159418940687142922/IMG20231005110442.jpg)
+
+
+# Known Issues
+
+This Mod reduces the 8mm pitch from the leadscrews down to 4mm so your Motors will have to spin twice as fast for the same travel speed.
+I had to reduce my rapid moves to 2000mm/min, i am planning on upgrading to 48V to alleviate that.
+**You will need quite beefy motors to sustain this mod.**
