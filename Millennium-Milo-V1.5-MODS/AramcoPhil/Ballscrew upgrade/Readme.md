@@ -59,6 +59,11 @@ Before: ![Before](https://media.discordapp.net/attachments/810620768609370158/11
 
 After: ![After](https://media.discordapp.net/attachments/810620768609370158/1159418940687142922/IMG20231005110442.jpg)
 
+# Needed Modifications to the Z Collumn
+
+The Z Collumn needs a shallow groove cut on the bottom in the middle, along the Y axis, where the ballscrew sits. 15mm wide and 5mm deep will be plenty. Sorry, i dont have a pic to show after.
+
+Needed Cutout: ![Cutout](https://cdn.discordapp.com/attachments/1179025447825195071/1179125872909885561/image.png)
 
 # Known Issues
 
