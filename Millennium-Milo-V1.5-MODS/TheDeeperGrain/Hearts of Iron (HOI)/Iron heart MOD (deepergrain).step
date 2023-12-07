@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'Iron heart MOD (deepergrain) v4.step',
-/* time_stamp */ '2023-12-06T20:53:16Z',
+/* name */ 'Iron heart MOD (deepergrain).step',
+/* time_stamp */ '2023-12-07T09:50:05Z',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -691,48 +691,48 @@ SHAPE_REPRESENTATION_RELATIONSHIP()
 #154=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#116,#46751);
 #155=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#117,#46752);
 #156=CONTEXT_DEPENDENT_SHAPE_REPRESENTATION(#118,#46753);
-#157=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 80mm (2):1',
-'Rear mount 80mm (2):1','Rear mount 80mm (2):1',#46791,#46794,
-'Rear mount 80mm (2):1');
-#158=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 80mm (1) (1):1',
-'Rear mount 80mm (1) (1):1','Rear mount 80mm (1) (1):1',#46791,#46795,
-'Rear mount 80mm (1) (1):1');
-#159=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear Shroud 80mm (1):1',
-'Rear Shroud 80mm (1):1','Rear Shroud 80mm (1):1',#46791,#46796,
-'Rear Shroud 80mm (1):1');
-#160=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 80mm (2):1',
-'Rear mount 80mm (2):1','Rear mount 80mm (2):1',#46793,#46794,
-'Rear mount 80mm (2):1');
-#161=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 80mm (1) (1):1',
-'Rear mount 80mm (1) (1):1','Rear mount 80mm (1) (1):1',#46793,#46795,
-'Rear mount 80mm (1) (1):1');
-#162=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear Shroud 80mm (1):1',
-'Rear Shroud 80mm (1):1','Rear Shroud 80mm (1):1',#46793,#46796,
-'Rear Shroud 80mm (1):1');
-#163=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm  (1):1',
-'Front mount 80mm  (1):1','Front mount 80mm  (1):1',#46792,#46799,
-'Front mount 80mm  (1):1');
-#164=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm (1):1',
-'Front mount 80mm (1):1','Front mount 80mm (1):1',#46792,#46800,
-'Front mount 80mm (1):1');
-#165=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front shroud 80mm (1):1',
-'Front shroud 80mm (1):1','Front shroud 80mm (1):1',#46797,#46798,
-'Front shroud 80mm (1):1');
-#166=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm  (1):1',
-'Front mount 80mm  (1):1','Front mount 80mm  (1):1',#46797,#46799,
-'Front mount 80mm  (1):1');
-#167=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm (1):1',
-'Front mount 80mm (1):1','Front mount 80mm (1):1',#46797,#46800,
-'Front mount 80mm (1):1');
-#168=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front shroud 80mm (1) (1):1',
-'Front shroud 80mm (1) (1):1','Front shroud 80mm (1) (1):1',#46801,#46802,
-'Front shroud 80mm (1) (1):1');
-#169=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm  (1) (1):1',
-'Front mount 80mm  (1) (1):1','Front mount 80mm  (1) (1):1',#46801,#46803,
-'Front mount 80mm  (1) (1):1');
-#170=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 80mm (1) (1):1',
-'Front mount 80mm (1) (1):1','Front mount 80mm (1) (1):1',#46801,#46804,
-'Front mount 80mm (1) (1):1');
+#157=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 65mm (2):1',
+'Rear mount 65mm (2):1','Rear mount 65mm (2):1',#46791,#46794,
+'Rear mount 65mm (2):1');
+#158=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 65mm (1) (1):1',
+'Rear mount 65mm (1) (1):1','Rear mount 65mm (1) (1):1',#46791,#46795,
+'Rear mount 65mm (1) (1):1');
+#159=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear Shroud 65mm (1):1',
+'Rear Shroud 65mm (1):1','Rear Shroud 65mm (1):1',#46791,#46796,
+'Rear Shroud 65mm (1):1');
+#160=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 65mm (2):1',
+'Rear mount 65mm (2):1','Rear mount 65mm (2):1',#46793,#46794,
+'Rear mount 65mm (2):1');
+#161=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear mount 65mm (1) (1):1',
+'Rear mount 65mm (1) (1):1','Rear mount 65mm (1) (1):1',#46793,#46795,
+'Rear mount 65mm (1) (1):1');
+#162=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Rear Shroud 65mm (1):1',
+'Rear Shroud 65mm (1):1','Rear Shroud 65mm (1):1',#46793,#46796,
+'Rear Shroud 65mm (1):1');
+#163=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm  (1):1',
+'Front mount 65mm  (1):1','Front mount 65mm  (1):1',#46792,#46799,
+'Front mount 65mm  (1):1');
+#164=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm (1):1',
+'Front mount 65mm (1):1','Front mount 65mm (1):1',#46792,#46800,
+'Front mount 65mm (1):1');
+#165=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front shroud 65mm (1):1',
+'Front shroud 65mm (1):1','Front shroud 65mm (1):1',#46797,#46798,
+'Front shroud 65mm (1):1');
+#166=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm  (1):1',
+'Front mount 65mm  (1):1','Front mount 65mm  (1):1',#46797,#46799,
+'Front mount 65mm  (1):1');
+#167=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm (1):1',
+'Front mount 65mm (1):1','Front mount 65mm (1):1',#46797,#46800,
+'Front mount 65mm (1):1');
+#168=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front shroud 65mm (1) (1):1',
+'Front shroud 65mm (1) (1):1','Front shroud 65mm (1) (1):1',#46801,#46802,
+'Front shroud 65mm (1) (1):1');
+#169=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm  (1) (1):1',
+'Front mount 65mm  (1) (1):1','Front mount 65mm  (1) (1):1',#46801,#46803,
+'Front mount 65mm  (1) (1):1');
+#170=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front mount 65mm (1) (1):1',
+'Front mount 65mm (1) (1):1','Front mount 65mm (1) (1):1',#46801,#46804,
+'Front mount 65mm (1) (1):1');
 #171=NEXT_ASSEMBLY_USAGE_OCCURRENCE('Front shroud 80mm (2):1',
 'Front shroud 80mm (2):1','Front shroud 80mm (2):1',#46806,#46807,
 'Front shroud 80mm (2):1');
@@ -50098,28 +50098,28 @@ SOLID_ANGLE_UNIT()
 #46788);
 #46793=PRODUCT_DEFINITION('Rear shroud assembly (1)_1',
 'Rear shroud assembly (1)',#46827,#46788);
-#46794=PRODUCT_DEFINITION('Rear mount 80mm (2)','Rear mount 80mm (2)',#46828,
+#46794=PRODUCT_DEFINITION('Rear mount 65mm (2)','Rear mount 65mm (2)',#46828,
 #46788);
-#46795=PRODUCT_DEFINITION('Rear mount 80mm (1) (1)',
-'Rear mount 80mm (1) (1)',#46829,#46788);
-#46796=PRODUCT_DEFINITION('Rear Shroud 80mm (1)','Rear Shroud 80mm (1)',
+#46795=PRODUCT_DEFINITION('Rear mount 65mm (1) (1)',
+'Rear mount 65mm (1) (1)',#46829,#46788);
+#46796=PRODUCT_DEFINITION('Rear Shroud 65mm (1)','Rear Shroud 65mm (1)',
 #46830,#46788);
 #46797=PRODUCT_DEFINITION('front shroud (1)_1','front shroud (1)',#46831,
 #46788);
-#46798=PRODUCT_DEFINITION('Front shroud 80mm (1)',
-'Front shroud 80mm (1)',#46832,#46788);
-#46799=PRODUCT_DEFINITION('Front mount 80mm  (1)',
-'Front mount 80mm  (1)',#46833,#46788);
-#46800=PRODUCT_DEFINITION('Front mount 80mm (1)','Front mount 80mm (1)',
+#46798=PRODUCT_DEFINITION('Front shroud 65mm (1)',
+'Front shroud 65mm (1)',#46832,#46788);
+#46799=PRODUCT_DEFINITION('Front mount 65mm  (1)',
+'Front mount 65mm  (1)',#46833,#46788);
+#46800=PRODUCT_DEFINITION('Front mount 65mm (1)','Front mount 65mm (1)',
 #46834,#46788);
 #46801=PRODUCT_DEFINITION('front shroud (1) (1)','front shroud (1) (1)',
 #46835,#46788);
-#46802=PRODUCT_DEFINITION('Front shroud 80mm (1) (1)',
-'Front shroud 80mm (1) (1)',#46836,#46788);
-#46803=PRODUCT_DEFINITION('Front mount 80mm  (1) (1)',
-'Front mount 80mm  (1) (1)',#46837,#46788);
-#46804=PRODUCT_DEFINITION('Front mount 80mm (1) (1)',
-'Front mount 80mm (1) (1)',#46838,#46788);
+#46802=PRODUCT_DEFINITION('Front shroud 65mm (1) (1)',
+'Front shroud 65mm (1) (1)',#46836,#46788);
+#46803=PRODUCT_DEFINITION('Front mount 65mm  (1) (1)',
+'Front mount 65mm  (1) (1)',#46837,#46788);
+#46804=PRODUCT_DEFINITION('Front mount 65mm (1) (1)',
+'Front mount 65mm (1) (1)',#46838,#46788);
 #46805=PRODUCT_DEFINITION('80mm mount','80mm mount',#46839,#46788);
 #46806=PRODUCT_DEFINITION('front shroud (2)','front shroud (2)',#46840,
 #46788);
@@ -50197,28 +50197,28 @@ SOLID_ANGLE_UNIT()
 'front shroud (1)',(#46897));
 #46861=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear shroud assembly (1)',
 'Rear shroud assembly (1)',(#46898));
-#46862=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear mount 80mm (2)',
-'Rear mount 80mm (2)',(#46899));
-#46863=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear mount 80mm (1) (1)',
-'Rear mount 80mm (1) (1)',(#46900));
-#46864=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear Shroud 80mm (1)',
-'Rear Shroud 80mm (1)',(#46901));
+#46862=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear mount 65mm (2)',
+'Rear mount 65mm (2)',(#46899));
+#46863=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear mount 65mm (1) (1)',
+'Rear mount 65mm (1) (1)',(#46900));
+#46864=PRODUCT_RELATED_PRODUCT_CATEGORY('Rear Shroud 65mm (1)',
+'Rear Shroud 65mm (1)',(#46901));
 #46865=PRODUCT_RELATED_PRODUCT_CATEGORY('front shroud (1)',
 'front shroud (1)',(#46902));
-#46866=PRODUCT_RELATED_PRODUCT_CATEGORY('Front shroud 80mm (1)',
-'Front shroud 80mm (1)',(#46903));
-#46867=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 80mm  (1)',
-'Front mount 80mm  (1)',(#46904));
-#46868=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 80mm (1)',
-'Front mount 80mm (1)',(#46905));
+#46866=PRODUCT_RELATED_PRODUCT_CATEGORY('Front shroud 65mm (1)',
+'Front shroud 65mm (1)',(#46903));
+#46867=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 65mm  (1)',
+'Front mount 65mm  (1)',(#46904));
+#46868=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 65mm (1)',
+'Front mount 65mm (1)',(#46905));
 #46869=PRODUCT_RELATED_PRODUCT_CATEGORY('front shroud (1) (1)',
 'front shroud (1) (1)',(#46906));
-#46870=PRODUCT_RELATED_PRODUCT_CATEGORY('Front shroud 80mm (1) (1)',
-'Front shroud 80mm (1) (1)',(#46907));
-#46871=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 80mm  (1) (1)',
-'Front mount 80mm  (1) (1)',(#46908));
-#46872=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 80mm (1) (1)',
-'Front mount 80mm (1) (1)',(#46909));
+#46870=PRODUCT_RELATED_PRODUCT_CATEGORY('Front shroud 65mm (1) (1)',
+'Front shroud 65mm (1) (1)',(#46907));
+#46871=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 65mm  (1) (1)',
+'Front mount 65mm  (1) (1)',(#46908));
+#46872=PRODUCT_RELATED_PRODUCT_CATEGORY('Front mount 65mm (1) (1)',
+'Front mount 65mm (1) (1)',(#46909));
 #46873=PRODUCT_RELATED_PRODUCT_CATEGORY('80mm mount','80mm mount',(#46910));
 #46874=PRODUCT_RELATED_PRODUCT_CATEGORY('front shroud (2)',
 'front shroud (2)',(#46911));
@@ -50267,19 +50267,19 @@ SOLID_ANGLE_UNIT()
 #46897=PRODUCT('front shroud (1)','front shroud (1)',$,(#46893));
 #46898=PRODUCT('Rear shroud assembly (1)_1','Rear shroud assembly (1)',
 $,(#46893));
-#46899=PRODUCT('Rear mount 80mm (2)','Rear mount 80mm (2)',$,(#46893));
-#46900=PRODUCT('Rear mount 80mm (1) (1)','Rear mount 80mm (1) (1)',$,(#46893));
-#46901=PRODUCT('Rear Shroud 80mm (1)','Rear Shroud 80mm (1)',$,(#46893));
+#46899=PRODUCT('Rear mount 65mm (2)','Rear mount 65mm (2)',$,(#46893));
+#46900=PRODUCT('Rear mount 65mm (1) (1)','Rear mount 65mm (1) (1)',$,(#46893));
+#46901=PRODUCT('Rear Shroud 65mm (1)','Rear Shroud 65mm (1)',$,(#46893));
 #46902=PRODUCT('front shroud (1)_1','front shroud (1)',$,(#46893));
-#46903=PRODUCT('Front shroud 80mm (1)','Front shroud 80mm (1)',$,(#46893));
-#46904=PRODUCT('Front mount 80mm  (1)','Front mount 80mm  (1)',$,(#46893));
-#46905=PRODUCT('Front mount 80mm (1)','Front mount 80mm (1)',$,(#46893));
+#46903=PRODUCT('Front shroud 65mm (1)','Front shroud 65mm (1)',$,(#46893));
+#46904=PRODUCT('Front mount 65mm  (1)','Front mount 65mm  (1)',$,(#46893));
+#46905=PRODUCT('Front mount 65mm (1)','Front mount 65mm (1)',$,(#46893));
 #46906=PRODUCT('front shroud (1) (1)','front shroud (1) (1)',$,(#46893));
-#46907=PRODUCT('Front shroud 80mm (1) (1)','Front shroud 80mm (1) (1)',
+#46907=PRODUCT('Front shroud 65mm (1) (1)','Front shroud 65mm (1) (1)',
 $,(#46893));
-#46908=PRODUCT('Front mount 80mm  (1) (1)','Front mount 80mm  (1) (1)',
+#46908=PRODUCT('Front mount 65mm  (1) (1)','Front mount 65mm  (1) (1)',
 $,(#46893));
-#46909=PRODUCT('Front mount 80mm (1) (1)','Front mount 80mm (1) (1)',$,
+#46909=PRODUCT('Front mount 65mm (1) (1)','Front mount 65mm (1) (1)',$,
 (#46893));
 #46910=PRODUCT('80mm mount','80mm mount',$,(#46893));
 #46911=PRODUCT('front shroud (2)','front shroud (2)',$,(#46893));
