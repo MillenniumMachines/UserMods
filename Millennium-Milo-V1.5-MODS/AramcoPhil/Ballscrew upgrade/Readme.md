@@ -55,15 +55,18 @@ https://www.dold-mechatronik.de/Wellenkupplung-RB-flexibel-D18L25-500-635mm
 
 The ball screw nuts are a tad too wide to fit the 40mm inside the C-Channel Profiles of Milo. Therefore a slight "adjustment" with an anglegrinder is required. Shave down the curved sides of the nuts until you barely miss the outermost screw hole. (We are not using that screw hole, so this is fine.) **I reccomend taping everything up and inserting an M5 grubscrew into the lubrication port in order to keep the grit out from the ball screw and nut.**
 
-Before: ![Before](https://i.imgur.com/gW15kLQ.jpeg)
+Before:
+![Before](https://i.imgur.com/gW15kLQ.jpeg)
 
-After: ![After](https://i.imgur.com/cEmqCb6.jpeg)
+After: 
+![After](https://i.imgur.com/cEmqCb6.jpeg)
 
 # Needed Modifications to the Z Collumn
 
 The Z Collumn needs a shallow groove cut on the bottom in the middle, along the Y axis, where the ballscrew sits. 15mm wide and 5mm deep will be plenty. Sorry, i dont have a pic to show after.
 
-Needed Cutout: ![Cutout](https://i.imgur.com/EiD8DX0.png)
+Needed Cutout: 
+![Cutout](https://i.imgur.com/EiD8DX0.png)
 
 # Known Issues
 
