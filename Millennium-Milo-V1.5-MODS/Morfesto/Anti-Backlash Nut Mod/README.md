@@ -14,7 +14,7 @@ And lastly it adds a grease port.
 ![it smells worse on the inside](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_sideview.png)
 
 
-If you're having a hard time with tolorances or your hardware is of a different size you can load it up in Onshape and edit the parameters.
+If you're having a hard time with tolerances or your hardware is of a different size you can load it up in Onshape and edit the parameters.
 
 [Model in Onshape](https://cad.onshape.com/documents/ad61f8ae473d135feabd2e81/w/a8a77c03487b52f66df65681/e/e948fd554dec3bcaa4e45c56)
 
