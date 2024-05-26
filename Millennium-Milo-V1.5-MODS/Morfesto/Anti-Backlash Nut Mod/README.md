@@ -1,20 +1,39 @@
+# Morfesto's Anti-Backlash Nut mod
 
-![iso image of anti-backlash model](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/iso_view.png)
+<img src="/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/iso_view.png" height="600">
 
-This mod removes the M3 inserts that tend to bulge into the hole for the anti-backlash nut and replaces them with lock nuts.
+This mod removes the M3 inserts that tend to bulge into the hole for the anti-backlash nut and replaces them with lock nuts. It also changes the M5 inserts to be inserted from the top so they can't be pulled out as easily.
+<table>
+    <tr>
+        <td><img src="/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_nuts_view.png" width="400"></td>
+        <td><img src="/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_insert_view.png" width="400"></td>
+    </tr>
+</table>
 
-![check out my nuts](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_nuts_view.png)
+Lastly it adds a grease port. 
 
-It changes the M5 inserts to be inserted from the top so it can't be pulled out as easily.
+<img src="/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_sideview.png" height="600">
 
-![more harder to pull out](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_insert_view.png)
-
-And lastly it adds a grease port. 
-
-![it smells worse on the inside](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_sideview.png)
-
-
-If you're having a hard time with tolerances or your hardware is of a different size you can load it up in Onshape and edit the parameters.
+If you're having a hard time with tolerances or if your hardware is of a different size you can open up this Onshape link and edit the parameters.
 
 [Model in Onshape](https://cad.onshape.com/documents/ad61f8ae473d135feabd2e81/w/a8a77c03487b52f66df65681/e/e948fd554dec3bcaa4e45c56)
 
+# BOM
+<table>
+    <tr>
+        <td>Item</td>
+        <td>Quantity</td>
+    </tr>
+    <tr>
+        <td>M3x20 BHCS/SHCS</td>
+        <td>4x</td>
+    </tr>
+    <tr>
+        <td>M3 nyloc nut</td>
+        <td>4x</td>
+    </tr>
+    <tr>
+        <td>M5x10 Heatset insert</td>
+        <td>2x</td>
+    </tr>
+</table>
