@@ -16,5 +16,5 @@ And lastly it adds a grease port.
 
 If you're having a hard time with tolorances or your hardware is of a different size you can load it up in Onshape and edit the parameters.
 
-[Model in Onshape](https://cad.onshape.com/documents/ad61f8ae473d135feabd2e81/w/a8a77c03487b52f66df65681/e/e948fd554dec3bcaa4e45c56?renderMode=0&uiState=66529d317e146d1507235510)
+[Model in Onshape](https://cad.onshape.com/documents/ad61f8ae473d135feabd2e81/w/a8a77c03487b52f66df65681/e/e948fd554dec3bcaa4e45c56)
 
