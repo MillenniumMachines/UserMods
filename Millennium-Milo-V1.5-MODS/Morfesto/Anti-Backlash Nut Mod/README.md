@@ -18,6 +18,10 @@ If you're having a hard time with tolerances or if your hardware is of a differe
 
 [Model in Onshape](https://cad.onshape.com/documents/ad61f8ae473d135feabd2e81/w/a8a77c03487b52f66df65681/e/e948fd554dec3bcaa4e45c56)
 
+# Print Settings
+
+Same as the Milo/LDO guide BUT this mod was done using true to size numbers, you will likely need to use x/y shrinkage compensation for your specific filament.
+
 # BOM
 <table>
     <tr>
