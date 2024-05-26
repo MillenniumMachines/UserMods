@@ -11,4 +11,4 @@ It changes the M5 inserts to be inserted from the top so it can't be pulled out 
 
 And lastly it adds a grease port. 
 
-![it smells worse on the inside](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash Nut Mod/images/cutout_sideview.png)
+![it smells worse on the inside](https://github.com/Morfesto/UserMods/blob/patch-1/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/cutout_sideview.png)
