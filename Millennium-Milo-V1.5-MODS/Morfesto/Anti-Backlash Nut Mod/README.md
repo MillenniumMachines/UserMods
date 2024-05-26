@@ -41,3 +41,11 @@ Same as the Milo/LDO guide BUT this mod was done using true to size numbers, you
         <td>2x</td>
     </tr>
 </table>
+
+
+# How to Use The Grease Port
+
+You need a Luer Lock syringe and a Luer Lock 14Ga blunt tip. Pack your syringe with the recommended grease.
+
+Insert into grease hole as shown below. If your grease is thick it's going to be a hard press but it should go in.
+<img src="/Millennium-Milo-V1.5-MODS/Morfesto/Anti-Backlash%20Nut%20Mod/images/greasing_it_up.jpg" height="380">
