@@ -2,6 +2,8 @@
 
 ![Igus Drylin AntiBacklash Nut](https://www.igus.com/ContentData/Products/ProductPictures/p812z1272.jpg)
 
+**Note:** I am still working on my machine somewhat, so I haven't fully tested these out yet, but I have built them and have them on my machine right now.
+
 You'll need to print the provided STLs and purchase the parts directly from Igus. I am not entirely sure that the X axis really needs two AntiBacklash nuts, and the Y and Z axis only fit one. You will also not be able to fit 3 screws on the mounts for the nuts, but 2 screws holds them in place just as well. 
 
 ## X,Y,Z Axis:
