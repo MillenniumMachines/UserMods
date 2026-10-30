@@ -8,11 +8,20 @@
 ## Bidi533
   - [VFD Mount](Bidi533/VFD%20Mount/README.md)
 
+## Morfesto
+  - [Anti-Backlash Nut Mod](Morfesto/Anti-Backlash%20Nut%20Mod/README.md)
+
 ## Mr-Rei
   - [80mm Spindle Mount](Mr-Rei/80mm%20Spindle%20Mount)
 
 ## Techmorphic
   - [Parametric Z Plates](Techmorphic/FMJ%20Parametric%20Plates/)
+
+## TheDeeperGrain
+  - [Hearts of Iron (HOI)](TheDeeperGrain/Hearts%20of%20Iron%20%28HOI%29/README.md)
+
+## TheUntitledGoose
+  - [Ring Light Mod](TheUntitledGoose/Ring%20Light%20Mod/README.md)
 
 ## TinkerTailor
   - [80mm Spindle Mount](TinkerTailor/80mm%20Spindle%20Mount)
