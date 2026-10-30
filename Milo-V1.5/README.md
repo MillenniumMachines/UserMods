@@ -14,6 +14,9 @@
 ## Mr-Rei
   - [80mm Spindle Mount](Mr-Rei/80mm%20Spindle%20Mount)
 
+## seanmccully
+  - [Igus Drylin Lead Screw](seanmccully/Igus%20Drylin%20Lead%20Screw/README.md)
+
 ## Techmorphic
   - [Parametric Z Plates](Techmorphic/FMJ%20Parametric%20Plates/)
 
